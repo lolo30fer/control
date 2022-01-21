@@ -1,7 +1,7 @@
 import instaloader
 ppr=["drock_bc","sias_bc","loverk_bc","godofcar_bc","toki_bc"]
 loader = instaloader.Instaloader()
-loader.login('l8sif5', 'L510WKJ2S621')
+loader.login('l8sif5', 'L5405ddeahadh4')
 g=0
 
 for i in ppr:
